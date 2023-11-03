@@ -1,2 +1,2 @@
-# badawy-progect
+# badawy-project
 this is our project
